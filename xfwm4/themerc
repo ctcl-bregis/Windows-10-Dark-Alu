@@ -2,8 +2,11 @@
 # Author: Elbullazul <cmedelahumada@gmail.com>
 # License: GPL-3.0+
 
-active_text_color=#ffffff
-inactive_text_color=#8c8c8c
+# Remixed by CTCL
+# July 6, 2023
+
+active_text_color=#000000
+inactive_text_color=#222222
 show_app_icon=true
 full_width_title=true
 #maximized_offset=10

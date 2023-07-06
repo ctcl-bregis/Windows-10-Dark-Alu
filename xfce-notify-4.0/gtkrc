@@ -11,7 +11,7 @@ style "notify-window" {
 
 style "notify-button" {
     bg[NORMAL] = "#0a0a0a"
-    bg[PRELIGHT] = "#066dc1"
+    bg[PRELIGHT] = "#ccb100"
     bg[ACTIVE] = "#0a0a0a"
 
     fg[NORMAL] = "#ffffff"
