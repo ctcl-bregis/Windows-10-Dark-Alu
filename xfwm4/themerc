@@ -3,10 +3,10 @@
 # License: GPL-3.0+
 
 # Remixed by CTCL
-# July 6, 2023
+# July 26, 2023
 
-active_text_color=#000000
-inactive_text_color=#222222
+active_text_color=#FFFFFF
+inactive_text_color=#CCCCCC
 show_app_icon=true
 full_width_title=true
 #maximized_offset=10

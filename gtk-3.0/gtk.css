@@ -94,7 +94,7 @@
 @define-color scrollnorm_bg_color shade(@theme_bg_color, 1.25);
 
 /*Progressbar bg color*/
-@define-color progressbar_color #06B025;
+@define-color progressbar_color #9232FB;
 
 @import url("gtk-widgets.css");
 @import url("gtk-widgets-assets.css");
