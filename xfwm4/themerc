@@ -3,7 +3,7 @@
 # License: GPL-3.0+
 
 # Remixed by CTCL
-# July 6, 2023
+# July 6, 2023 - October 11, 2024
 
 active_text_color=#000000
 inactive_text_color=#222222
@@ -20,4 +20,4 @@ shadow_delta_height=0
 shadow_delta_width=0
 shadow_delta_x=0
 shadow_delta_y=0
-shadow_opacity=30
+shadow_opacity=0

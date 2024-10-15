@@ -10,9 +10,9 @@ style "notify-window" {
 }
 
 style "notify-button" {
-    bg[NORMAL] = "#0a0a0a"
+    bg[NORMAL] = "#000000"
     bg[PRELIGHT] = "#ccb100"
-    bg[ACTIVE] = "#0a0a0a"
+    bg[ACTIVE] = "#000000"
 
     fg[NORMAL] = "#ffffff"
     fg[PRELIGHT] = "#ffffff"
@@ -27,7 +27,7 @@ style "notify-button" {
 }
 
 style "notify-text" {
-    GtkWidget::link-color = "#224ba0"
+    GtkWidget::link-color = "#0000ff"
 
     fg[NORMAL] = "#ffffff"
     fg[PRELIGHT] = "#ffffff"
@@ -60,7 +60,7 @@ style "notify-progressbar" {
 		trough_shades = { 1.0, 1.0 }
 		trough_border_shades = { 1.0, 1.0 }
         progressbarstyle = 0
-        roundness = 2
+        roundness = 0
         textstyle = 0
     }
 }

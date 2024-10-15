@@ -3,8 +3,7 @@
 # Windows 10 Dark
 GTK theme based on the appearance of Windows 10 using the included dark mode.
 
-### Preview
-![Windows-10-Dark](https://github.com/B00merang-Project/gallery/raw/master/Windows%2010%20Dark%20(3).png)
+This theme is currently intended for 96 DPI displays, support for 188-190 DPI displays (15.6" 1440p, 11.6" 1080p) coming soon.
 
 ### Supported platforms
 - Any GTK-based desktop
@@ -13,6 +12,8 @@ GTK theme based on the appearance of Windows 10 using the included dark mode.
 - LXDE/Openbox
 - MATE
 - Xfce
+
+This fork has only been tested with XFWM4. 
 
 ### Manual installation
 Go to releases, download the latest `.zip` file and extract it to the themes directory i.e. `/home/USERNAME/.themes`
