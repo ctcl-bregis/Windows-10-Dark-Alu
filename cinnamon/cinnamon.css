@@ -207,7 +207,7 @@ StScrollBar StButton#hhandle:focus {
   font-weight: normal;
   caret-size: 1px;
   selected-color: #ffffff;
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
   padding: 4px 12px 3px 12px;
 }
 
@@ -308,7 +308,7 @@ StScrollBar StButton#hhandle:focus {
   -slider-height: 0.1em;
   -slider-background-color: #444;
   -slider-border-color: rgba(0, 0, 0, .02);
-  -slider-active-background-color: #42bee1;
+  -slider-active-background-color: #f0d000;
   -slider-active-border-color: rgba(0, 0, 0, .02);
   -slider-border-width: 1px;
   -slider-handle-radius: 0.5em;
@@ -544,7 +544,7 @@ StScrollBar StButton#hhandle:focus {
   caret-size: 1px;
   border-color: transparent;
   background-color: rgba(255, 255, 255, 0.85);
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
 }
 
 .window-close-area {
@@ -831,7 +831,7 @@ StScrollBar StButton#hhandle:focus {
   font-weight: normal;
   caret-size: 1px;
   selected-color: #ffffff;
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
   padding: 4px 12px 3px 12px;
 }
 
@@ -849,7 +849,7 @@ StScrollBar StButton#hhandle:focus {
   font-weight: normal;
   caret-size: 1px;
   selected-color: #ffffff;
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
   padding: 4px 12px 3px 12px;
 }
 
@@ -1294,7 +1294,7 @@ StScrollBar StButton#hhandle:focus {
   font-weight: normal;
   caret-size: 1px;
   selected-color: #ffffff;
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
   padding: 4px 12px 3px 12px;
 }
 
@@ -1312,7 +1312,7 @@ StScrollBar StButton#hhandle:focus {
   font-weight: normal;
   caret-size: 1px;
   selected-color: #ffffff;
-  selection-background-color: #2975E9;
+  selection-background-color: #f0d000;
   padding: 4px 12px 3px 12px;
 }
 
@@ -1632,7 +1632,7 @@ StScrollBar StButton#hhandle:focus {
   background-color: #ffffff;
   font-weight: normal;
   selected-color: #ffffff;
-  selection-background-color: #0f7bd1;
+  selection-background-color: #f0d000;
 }
 
 /* Context menu (at the moment only for favorites) */
@@ -1786,8 +1786,8 @@ StScrollBar StButton#hhandle:focus {
 
 .grouped-window-list-thumbnail-menu .item-box:selected {
   color: #ffffff;
-  background-color: #0078d7;
-  border: 0px solid #0078d7;
+  background-color: #f0d000;
+  border: 0px solid #f0d000;
 }
 
 /* ===================================================================

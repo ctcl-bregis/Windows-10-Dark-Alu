@@ -44,16 +44,16 @@ textview > text {
         background-color: #8c8c8c; }
     textview > text:selected:focus, textview > text:selected {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
     textview > text:selected:backdrop {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
     textview > text > selection {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
         textview > text > selection:focus-within {
             color: #FFFFFF;
-            background-color: #0078D7; }
+            background-color: #f0d000; }
 
 textview:drop(active) {
     caret-color: #4D4D4D; }
@@ -107,10 +107,10 @@ label:selected {
 
 label > selection {
     color: #FFFFFF;
-    background-color: #0078D7; }
+    background-color: #f0d000; }
     label > selection:focus-within {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
 
 label:disabled {
     color: #8c8c8c; }
@@ -427,10 +427,10 @@ entry {
         background-image: none;
         border-color: transparent; }
     entry > text > selection {
-        background-color: #0078D7;
+        background-color: #f0d000;
         color: #FFFFFF; }
         entry > text > selection:focus-within {
-            background-color: #0078D7;
+            background-color: #f0d000;
             color: #FFFFFF; }
     entry > image {
         color: #d2d2d2; }
@@ -479,7 +479,7 @@ editablelabel > stack > text > selection {
     background-color: #4D4D4D; }
     editablelabel > stack > text > selection:focus-within {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
 
 
 button {
@@ -742,7 +742,7 @@ spinbutton:not(.vertical) {
             background-color: #4D4D4D;
             color: #FFFFFF; }
             spinbutton:not(.vertical) > text > selection:focus-within {
-                background-color: #0078D7;
+                background-color: #f0d000;
                 color: #FFFFFF; }
     spinbutton:not(.vertical) > button {
         border-color: transparent;
@@ -785,7 +785,7 @@ spinbutton.vertical > text {
         background-color: #4D4D4D;
         color: #FFFFFF; }
         spinbutton.vertical > text > selection:focus-within {
-            background-color: #0078D7;
+            background-color: #f0d000;
             color: #FFFFFF; }
 
 spinbutton.vertical > button {
@@ -1573,8 +1573,8 @@ switch {
     background-color: transparent;
     box-shadow: none; }
     switch:checked {
-        border-color: #0078D7;
-        background-color: #0078D7; }
+        border-color: #f0d000;
+        background-color: #f0d000; }
         switch:checked:disabled {
             border-color: #8c8c8c;
             background-color: transparent; }
@@ -2120,7 +2120,7 @@ columnview row:not(:selected) cell editablelabel.editing text selection {
     color: transparent; }
     columnview row:not(:selected) cell editablelabel.editing text selection:focus-within {
         color: #FFFFFF;
-        background-color: #0078D7; }
+        background-color: #f0d000; }
 
 .rich-list > row {
     padding: 8px 12px;

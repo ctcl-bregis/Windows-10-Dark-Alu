@@ -52,7 +52,7 @@ image, image:disabled, label, label:disabled, box, box:disabled {
   background-color: transparent; }
 
 label selection {
-  background-color: #0078D7;
+  background-color: #f0d000;
   color: #FFFFFF; }
 label.dim-label, label.separator, popover label.separator, popover.background label.separator, label:disabled {
   opacity: 0.55; }
@@ -381,11 +381,11 @@ calendar {
   calendar:selected {
     border-radius: 0;
     color: #FFFFFF;
-    background-color: #0078D7; }
+    background-color: #f0d000; }
   calendar:indeterminate {
     color: alpha(currentColor, 0.55); }
   calendar.highlight {
-    color: #0078D7; }
+    color: #f0d000; }
 
 entry {
   padding: 4px 3px;
@@ -400,7 +400,7 @@ entry {
     border-color: shade(#4D4D4D, 0.6); }
   entry:selected, entry:selected:focus, entry selection, entry selection:focus {
     color: #FFFFFF;
-    background-color: #0078D7; }
+    background-color: #f0d000; }
   entry:disabled {
     color: #8c8c8c;
     border-color: #202020;
@@ -1488,8 +1488,8 @@ switch {
   background-color: transparent;
   min-width: 42px; }
   switch:checked {
-    border-color: #0078D7;
-    background-color: #0078D7;
+    border-color: #f0d000;
+    background-color: #f0d000;
     box-shadow: none; }
     switch:checked:disabled {
       border-color: #0f5790; }
@@ -2111,7 +2111,7 @@ textview {
     background-color: #202020; }
     textview text:selected, textview text selection, textview text:selected:focus, textview text selection:focus {
       color: #FFFFFF;
-      background-color: #0078D7; }
+      background-color: #f0d000; }
 
 treeview {
   -treeview-vertical-separator: 0; }
@@ -2165,7 +2165,7 @@ treeview {
       background-color: #4D4D4D; }
   .view text selection, .view text selection:focus {
     color: #FFFFFF;
-    background-color: #0078D7; }
+    background-color: #f0d000; }
     .view text selection:disabled, .view text selection:focus:disabled {
       color: #c6c6c6;
       background-color: #4D4D4D; }
